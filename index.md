@@ -1,6 +1,6 @@
 ---
 layout: page
-title: --oneline Blog
+title: --oneline
 ---
 {% include JB/setup %}
 
