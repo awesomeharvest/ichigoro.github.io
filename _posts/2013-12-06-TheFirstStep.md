@@ -7,8 +7,6 @@ tags : [GitHub, GitHub pages, jekyll, jekyll Bootstrap]
 ---
 {% include JB/setup %}
 
-## GitHub Pagesでブログを作りたい
-
 ### やったこと
 
 - GitHub Pages の作成
