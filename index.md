@@ -2,7 +2,7 @@
 layout: page
 title: --oneline
 ---
-{% include JB/setup %}
+
 
 ## Sample Posts
 
