@@ -4,9 +4,7 @@ title: --oneline
 ---
 {% include JB/setup %}
 
-## Sample Posts
-
-Here's a sample "posts list".
+## Posts list
 
 <ul class="posts">
   {% for post in site.posts %}
