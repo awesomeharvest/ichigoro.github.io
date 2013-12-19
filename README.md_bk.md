@@ -1,2 +1,0 @@
-ichigoro.github.io
-==================
