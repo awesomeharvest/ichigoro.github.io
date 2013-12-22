@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pull Request
+title: Pull Requestをテストする
 date: 2013-12-19
 category : lessons
 tags : [GitHub, Pull Request, Merge]
